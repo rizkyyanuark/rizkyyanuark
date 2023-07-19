@@ -1,15 +1,21 @@
-### Hi there 👋
+# Halo semua! 👋
 
-rizkyyanuark/rizkyyanuark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya Rizky Yanuar K!
 
-Here are some ideas to get you started:
+Saya seorang Mahasiswa di Universitas Negeri Surabaya dengan jurusan Sains Data.
 
-- 🔭 I’m currently working on Universitas Negeri Surabaya
-- 🌱 I’m currently learning SQL
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Saya sedang mengerjakan [proyekmu]
+- 🌱 Saya sedang belajar [topikmu]
+- 👯 Saya ingin berkolaborasi pada [proyekmu]
+- 🤔 Saya mencari bantuan dengan [proyekmu]
+- 💬 Tanya saya tentang [topikmu]
+- 📫 Cara menghubungi saya: [emailmu]
+- 😄 Kata ganti: [kata gantimu]
+- ⚡ Fakta menyenangkan: [faktamu]
+
+## Bahasa dan Alat
+
+!Top Langs
+
+!Namamu's GitHub stats
+
