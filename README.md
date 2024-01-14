@@ -4,14 +4,14 @@ Saya Rizky Yanuar K!
 
 Saya seorang Mahasiswa di Universitas Negeri Surabaya dengan jurusan Sains Data.
 
-- 🔭 Saya sedang mengerjakan [proyekmu]
-- 🌱 Saya sedang belajar [topikmu]
-- 👯 Saya ingin berkolaborasi pada [proyekmu]
-- 🤔 Saya mencari bantuan dengan [proyekmu]
-- 💬 Tanya saya tentang [topikmu]
-- 📫 Cara menghubungi saya: [emailmu]
-- 😄 Kata ganti: [kata gantimu]
-- ⚡ Fakta menyenangkan: [faktamu]
+- 🔭 Saya sedang mengerjakan Prediksi depresssion dari data speech
+- 🌱 Saya sedang belajar Machine learning
+- 👯 Saya ingin berkolaborasi pada Project open source saya
+- 🤔 Saya mencari bantuan dengan NLP
+- 💬 Tanya saya tentang Python
+- 📫 Cara menghubungi saya: rizkyyanuarkristianto@gmail.com
+- 😄 Kata ganti: Dia
+- ⚡ Fakta menyenangkan: Saya bisa mencintai tanpa dicintai balik
 
 ## Bahasa dan Alat
 
