@@ -49,9 +49,11 @@ I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 
 ### Now Playing 🎧
 <div align="center">
-        <a href="https://spotify-github-profile.vercel.app/api/view?uid=21oqzhuwv6ipouka76peas7ui&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=21oqzhuwv6ipouka76peas7ui&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=4ranv9sv11c8o9svrtdudxl0d&cover_image=true&theme=compact" alt="Spotify recently played"  />
+        <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=21oqzhuwv6ipouka76peas7ui&redirect=true">
+		<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21oqzhuwv6ipouka76peas7ui&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify recently played"  />
         </a>
 </div>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
