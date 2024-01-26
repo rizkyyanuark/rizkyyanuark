@@ -4,12 +4,12 @@
 ## Heyyo, I'm **Rizkyyk**!
 (Use dark theme to find my socials ;)
 
-<a href="https://rizkyyanuark.github.io/" target="_blank"><img align="left" alt="rizkyyanuark" width="22px" src="https://github.com/rizkyyanuark/repo-bio/blob/main/www.svg" /></a>
-<a href="https://www.linkedin.com/in/rizkyyanurk715/" target="_blank"><img align="left" alt="Rizky Yanuar K | LinkedIn" width="22px" src="https://github.com/rizkyyanuark/repo-bio/blob/main/linkedin.svg" />
-<a href="https://twitter.com/pelerjohan" target="_blank"><img align="left" alt="Rizky Yanuar K | Twitter" width="22px" src="https://github.com/rizkyyanuark/repo-bio/blob/main/twitter.svg" />
-<a href="https://www.instagram.com/rizkyyanuark/" target="_blank"><img align="left" alt="Rizky Yanuar K | Instagram" width="22px" src="https://github.com/rizkyyanuark/repo-bio/blob/main/insta.svg" />
-<a href="https://www.facebook.com/profile.php?id=100009551482380&mibextid=9R9pXO" target="_blank"><img align="left" alt="Rizky Yanuar K | Facebook" width="22px" src="https://github.com/rizkyyanuark/repo-bio/blob/main/icons8-facebook.svg" />
-<a href="https://www.kaggle.com/rizkyyk" target="_blank"><img align="left" alt="Rizky Yanuar K | Facebook" width="22px" src="https://github.com/rizkyyanuark/repo-bio/blob/main/icons8-kaggle.svg" />
+<a href="https://rizkyyanuark.github.io/" target="_blank"><img align="left" alt="rizkyyanuark" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/www.svg" /></a>
+<a href="https://www.linkedin.com/in/rizkyyanurk715/" target="_blank"><img align="left" alt="Rizky Yanuar K | LinkedIn" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/linkedin.svg" />
+<a href="https://twitter.com/pelerjohan" target="_blank"><img align="left" alt="Rizky Yanuar K | Twitter" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/twitter.svg" />
+<a href="https://www.instagram.com/rizkyyanuark/" target="_blank"><img align="left" alt="Rizky Yanuar K | Instagram" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/insta.svg" />
+<a href="https://www.facebook.com/profile.php?id=100009551482380&mibextid=9R9pXO" target="_blank"><img align="left" alt="Rizky Yanuar K | Facebook" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/icons8-facebook.svg" />
+<a href="https://www.kaggle.com/rizkyyk" target="_blank"><img align="left" alt="Rizky Yanuar K | Facebook" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/icons8-kaggle.svg" />
 
 <br />
 <br />
