@@ -45,7 +45,6 @@ I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)&nbsp;
 ![RSTUDIO](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
 ### Now Playing 🎧
 <div align="center">
@@ -64,3 +63,4 @@ I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
