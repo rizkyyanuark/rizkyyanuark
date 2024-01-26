@@ -1,22 +1,17 @@
-👋 Hello, World! Saya **Rizky Yanuar Kristianto**!
+# Halo semua! 👋
 
-🎓 Saya tengah menempuh pendidikan di Universitas Negeri Surabaya, mempelajari ilmu yang menarik dan mendalam tentang **Sains Data**.
+Saya Rizky Yanuar K!
 
-🔬 Saat ini, saya tengah meneliti tentang **Prediksi Depresi dari Data Speech**. Saya percaya bahwa teknologi dapat membantu kita memahami dan mengatasi tantangan kesehatan mental.
+Saya seorang Mahasiswa di Universitas Negeri Surabaya dengan jurusan **Sains Data**.
 
-🌱 Saya tengah memperdalam pengetahuan saya dalam **Machine Learning**, menjelajahi cara-cara baru untuk menginterpretasikan dan memahami data.
-
-👯 Saya terbuka untuk berkolaborasi pada proyek open source. Mari kita berbagi pengetahuan dan menciptakan sesuatu yang luar biasa bersama!
-
-🤔 Saya sedang mencari bantuan dalam **NLP**. Jika Anda memiliki saran atau tips, saya sangat menghargai bantuan Anda.
-
-💬 Jika Anda memiliki pertanyaan tentang **Python**, jangan ragu untuk bertanya! Saya senang berbagi apa yang saya ketahui.
-
-📫 Jika Anda ingin menghubungi saya, silakan kirim email ke: rizkyyanuarkristianto@gmail.com
-
-😄 Kata ganti: Dia (Him)
-
-⚡ Fakta Menyenangkan: Saya mampu mencintai tanpa perlu dicintai balik. Cinta adalah tentang memberi, bukan menerima. 💖
+- 🔭 Saya sedang mengerjakan Prediksi depresssion dari data speech
+- 🌱 Saya sedang belajar **Machine learning**
+- 👯 Saya ingin berkolaborasi pada Project open source saya
+- 🤔 Saya mencari bantuan dengan NLP
+- 💬 Tanya saya tentang **Python**
+- 📫 Cara menghubungi saya: rizkyyanuarkristianto@gmail.com
+- 😄 Kata ganti: Dia (Him)
+- ⚡ Fakta menyenangkan: Saya bisa mencintai tanpa dicintai balik
 
 
 ## Bahasa dan Alat
