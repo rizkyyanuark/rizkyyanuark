@@ -20,6 +20,11 @@ I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 - 🔭 I’m currently working on predicting depression from speech data
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on my open source project
+<p align="left">
+	<a href="https://github.com/rizkyyanuark/college">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizkyyanuark&repo=college&hide_border=true&theme=dark&show_icons=true" 
+	/></a></p>
+
 - 🤔 I’m looking for help with NLP
 - 💬 Ask me about **Python**
 - 📫 How to reach me: <a href="mailto:rizkyyanuarkristianto@gmail.com">
@@ -42,13 +47,18 @@ I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)&nbsp;
 ![RSTUDIO](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
 
-
 ### Now Playing 🎧
+<div align="center">
+        <a href="https://spotify-github-profile.vercel.app/api/view?uid=21oqzhuwv6ipouka76peas7ui&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=21oqzhuwv6ipouka76peas7ui&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=4ranv9sv11c8o9svrtdudxl0d&cover_image=true&theme=compact" alt="Spotify recently played"  />
+        </a>
+</div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21oqzhuwv6ipouka76peas7ui&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=21oqzhuwv6ipouka76peas7ui&redirect=true)
-<br/>
+### ⚙️ &nbsp;GitHub Analytics
 
-### 🛠 &nbsp;Stat
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=rizkyyanuark&hide_title=true&hide_border=flase&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyyanuark&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" />
+<p align="center">
+<a href="https://github.com/rizkyyanuark">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizkyyanuark&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkyyanuark&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
