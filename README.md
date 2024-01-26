@@ -1,4 +1,5 @@
 # HELLO WORLD! 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Heyyo, I'm **Rizkyyk**!
 (Use dark theme to find my socials ;)
@@ -26,7 +27,8 @@ I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can love without being loved in return
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -39,6 +41,12 @@ I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 ![Tablue](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)&nbsp;
 ![RSTUDIO](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
+
+
+### Now Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21oqzhuwv6ipouka76peas7ui&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=21oqzhuwv6ipouka76peas7ui&redirect=true)
+<br/>
 
 ### 🛠 &nbsp;Stat
 
