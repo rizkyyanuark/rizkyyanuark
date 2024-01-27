@@ -20,10 +20,7 @@ I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 - 🔭 I’m currently working on predicting depression from speech data
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on my open source project
-<p align="left">
-	<a href="https://github.com/rizkyyanuark/college">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizkyyanuark&repo=college&hide_border=true&theme=dark&show_icons=true" 
-	/></a></p>
+
 
 - 🤔 I’m looking for help with NLP
 - 💬 Ask me about **Python**
