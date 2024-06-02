@@ -17,7 +17,7 @@
 
 I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 
-- 🔭 I’m currently working on predicting depression from speech data
+- 🔭 I’m currently working on predicion for depression from speech data
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on my open source project
 <p align="left">
