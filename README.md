@@ -46,14 +46,6 @@ I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 ![RSTUDIO](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
 
 
-### Now Playing 🎧
-<div align="center">
-        <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=21oqzhuwv6ipouka76peas7ui&redirect=true">
-		<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21oqzhuwv6ipouka76peas7ui&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify recently played"  />
-        </a>
-</div>
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
