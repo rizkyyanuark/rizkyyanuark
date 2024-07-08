@@ -17,20 +17,13 @@
 
 I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 
-- 🔭 I’m currently working on predicion for depression from speech data
-- 🌱 I’m currently learning **Machine Learning**
-- 👯 I’m looking to collaborate on my open source project
+- 🌱 currently learning **Machine Learning**
+- 👯 looking to collaborate on my open source project
 <p align="left">
 	<a href="https://github.com/rizkyyanuark/college">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizkyyanuark&repo=college&hide_border=true&theme=dark&show_icons=true" 
 	/></a></p>
 
-- 🤔 I’m looking for help with NLP
-- 💬 Ask me about **Python**
-- 📫 How to reach me: <a href="mailto:rizkyyanuarkristianto@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/rizkyyanuark-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can love without being loved in return
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -53,6 +46,12 @@ I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizkyyanuark&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkyyanuark&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+<p align="center">
+  <a href="mailto:rizkyyanuarkristianto@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/rizkyyanuark-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
