@@ -11,6 +11,9 @@
 <a href="https://www.facebook.com/profile.php?id=100009551482380&mibextid=9R9pXO" target="_blank"><img align="left" alt="Rizky Yanuar K | Facebook" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/icons8-facebook.svg" />
 <a href="https://www.kaggle.com/rizkyyk" target="_blank"><img align="left" alt="Rizky Yanuar K | Facebook" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/icons8-kaggle.svg" />
 
+<img src="https://ai.github.io/size-limit/logo.svg" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+
 <br />
 <br />
 <br />
