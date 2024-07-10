@@ -10,9 +10,6 @@
 
 (Use dark theme to find my socials ;)
 
-<img src="https://ai.github.io/size-limit/logo.svg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
-
 <a href="https://rizkyyanuark.github.io/" target="_blank"><img align="left" alt="rizkyyanuark" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/www.svg" /></a>
 <a href="https://www.linkedin.com/in/rizkyyanurk715/" target="_blank"><img align="left" alt="Rizky Yanuar K | LinkedIn" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/linkedin.svg" />
 <a href="https://twitter.com/ikikikykk" target="_blank"><img align="left" alt="Rizky Yanuar K | Twitter" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/twitter.svg" />
