@@ -1,8 +1,17 @@
-# HELLO WORLD! 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF7E0&size=32&center=true&vCenter=true&width=600&height=100&lines=Heyyo%2C+I'm+Rizkyyk!;I'm+a+Data+Scientist;Think+Different" alt="Typing SVG" />
+  </a>
+</div>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Heyyo, I'm **Rizkyyk**!
+
 (Use dark theme to find my socials ;)
+
+<img src="https://ai.github.io/size-limit/logo.svg" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
 <a href="https://rizkyyanuark.github.io/" target="_blank"><img align="left" alt="rizkyyanuark" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/www.svg" /></a>
 <a href="https://www.linkedin.com/in/rizkyyanurk715/" target="_blank"><img align="left" alt="Rizky Yanuar K | LinkedIn" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/linkedin.svg" />
@@ -11,8 +20,6 @@
 <a href="https://www.facebook.com/profile.php?id=100009551482380&mibextid=9R9pXO" target="_blank"><img align="left" alt="Rizky Yanuar K | Facebook" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/icons8-facebook.svg" />
 <a href="https://www.kaggle.com/rizkyyk" target="_blank"><img align="left" alt="Rizky Yanuar K | Facebook" width="22px" src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/icons8-kaggle.svg" />
 
-<img src="https://ai.github.io/size-limit/logo.svg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
 <br />
 <br />
@@ -21,7 +28,7 @@
 I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 
 - 🌱 currently learning **Machine Learning**
-- 👯 looking to collaborate on my open source project
+- 👯 looking to collaborate on my open source college project
 <p align="left">
 	<a href="https://github.com/rizkyyanuark/college">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizkyyanuark&repo=college&hide_border=true&theme=dark&show_icons=true" 
