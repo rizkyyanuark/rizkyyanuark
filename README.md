@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<img src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/WallpaperDog-20440477-removebg-preview.svg" align="right" alt="Logo" width="375" height="666">
+<img src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/logobmth.svg" align="right" alt="Logo" width="475" height="475">
 
 
 
