@@ -7,8 +7,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://ai.github.io/size-limit/logo.svg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+
+<img src="https://github.com/rizkyyanuark/rizkyyanuark/blob/main/WallpaperDog-20440477-removebg-preview.svg" align="right" alt="Logo" width="375" height="666">
+
+
 
 (Use dark theme to find my socials ;)
 
