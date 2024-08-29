@@ -2,6 +2,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AB0FF&size=60&center=true&vCenter=true&width=900&height=220&lines=Heyyo%2C+I'm+Rizkyyk!;I'm+a+Data+Scientist;Think+Different" alt="Typing SVG" />
   </a>
+ <details>
+    <summary>My Detail Stats (click me to toggle 👀)</summary>
+    <br>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyyanuark&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyyanuark&theme=algolia" alt="Stat Streak" /></p>
+    <p><img src="https://github-profile-trophy.vercel.app/?username=rizkyyanuark&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+  </details>
 </div>
 
 
@@ -65,4 +72,7 @@ I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
   </a>
 </p>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+
+© 2023 — Rizky Yanuar Kristianto
