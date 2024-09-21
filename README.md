@@ -36,10 +36,10 @@
 I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 
 - 🌱 currently learning **Machine Learning**
-- 👯 looking to collaborate on my open source college project
+- 👯 looking to collaborate on my open source sudoku solver project
 <p align="left">
 	<a href="https://github.com/rizkyyanuark/college">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizkyyanuark&repo=college&hide_border=true&theme=dark&show_icons=true" 
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizkyyanuark&repo=SudokuSolverDariCitraDigital&hide_border=true&theme=dark&show_icons=true" 
 	/></a></p>
 
 
