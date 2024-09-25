@@ -5,9 +5,16 @@
  <details>
     <summary>My Detail Stats (click me to toggle 👀)</summary>
     <br>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyyanuark&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyyanuark&theme=algolia" alt="Stat Streak" /></p>
-    <p><img src="https://github-profile-trophy.vercel.app/?username=rizkyyanuark&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=82692777" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=82692777&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @rizkyyanuark" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=82692777&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
   </details>
 </div>
 
