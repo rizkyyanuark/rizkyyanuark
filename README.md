@@ -42,7 +42,7 @@
 
 I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
 
-- 🌱 currently learning **Machine Learning**
+- 🌱 currently learning **MLops**
 - 👯 looking to collaborate on my open source sudoku solver project
 <p align="left">
 	<a href="https://github.com/rizkyyanuark/college">
