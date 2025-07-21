@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AB0FF&size=60&center=true&vCenter=true&width=900&height=220&lines=Heyyo%2C+I'm+Rizkyyk!;I'm+a+Data+Scientist;Think+Different" alt="Typing SVG" />
+	<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
   </a>
  <details>
     <summary>My Detail Stats (click me to toggle 👀)</summary>
@@ -40,28 +41,14 @@
 <br />
 <br />
 
-I’m a student at Universitas Negeri Surabaya, majoring in Data Science.
+- 🌱 I’m currently learning **AI Agents, MLOps, Consistency**
 
-- 🌱 currently learning **MLops**
-- 👯 looking to collaborate on my open source sudoku solver project
-<p align="left">
-	<a href="https://github.com/rizkyyanuark/college">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizkyyanuark&repo=SudokuSolverDariCitraDigital&hide_border=true&theme=dark&show_icons=true" 
-	/></a></p>
+- 👨‍💻 All of my projects are available at [https://rizkyyanuark.vercel.app](https://rizkyyanuark.vercel.app)
 
+- 📝 I regularly write articles on [https://medium.com/@rizkyyanuarkristianto](https://medium.com/@rizkyyanuarkristianto)
 
-### 🛠 &nbsp;Tech Stack
+- 📫 How to reach me **rizkyyanuarkristianto@gmail.com**
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;\
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)&nbsp;
-![TENSORFLOW](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
-![Tablue](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)&nbsp;
-![RSTUDIO](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
