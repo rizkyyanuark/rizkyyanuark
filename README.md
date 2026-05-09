@@ -41,7 +41,7 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning **AI Agents, MLOps, Consistency**
+- 🌱 I’m currently learning **Data Driven, MLOps, Consistency**
 
 - 👨‍💻 All of my projects are available at [https://rizkyyanuark.vercel.app](https://rizkyyanuark.vercel.app)
 
